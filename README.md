@@ -20,6 +20,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 5.User experience
 
-OUTPUT:
+OUTPUT:[Nithish Exp 2 (3).pdf](https://github.com/user-attachments/files/28681367/Nithish.Exp.2.3.pdf)
+
 
 RESULT:
